@@ -1,3 +1,3 @@
-module github.com/RealJimy/utils
+module github.com/RealJimy/utils/v2
 
 go 1.18
